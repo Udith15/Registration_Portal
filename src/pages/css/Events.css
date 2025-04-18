@@ -1,0 +1,22 @@
+.events{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.c2{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-color: #f0f0f0;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.c3{
+    display: flex;
+    flex: 3;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+}
